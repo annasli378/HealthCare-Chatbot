@@ -3,6 +3,16 @@
 - - i have a migrane headache
   - symptom noted. Migraines tend to be recurrent, and each attack may last up to 3 days. would you like to talk to a doctor?
 - - i have a cluster headache
- - symptom noted. Attacks tend to occur in daily clusters that can persist for weeks or months. They typically take place at the same time of day, which can often be a couple of hours after falling asleep at night. would you like to talk to a doctor?
+  - symptom noted. Attacks tend to occur in daily clusters that can persist for weeks or months. They typically take place at the same time of day, which can often be a couple of hours after falling asleep at night. would you like to talk to a doctor?
 - - i have a tension headache
- - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+  - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+- - i feel a sharp pain in my head
+  - what kind of pain are you experiencing: 1. Sharp and stabbing pain (possible migraine), 2. Intense and recurrent pain (potential cluster headache), 3. A constant dull ache (could be tension headache)?
+- - my head hurts and the pain is throbbing
+  - noted. Throbbing pain is a common symptom of migraines. Would you like to discuss your symptoms further with a doctor?
+- -  i have a headache  and it feels like a band tightening around my head
+  - Understood. The sensation of a band tightening around the head is characteristic of tension headaches. Would you like to seek advice from a medical professional?
+- - i experience excruciating pain in my head at specific times every day
+  - experiencing excruciating pain at specific times daily could indicate cluster headaches. Would you consider consulting with a doctor about your symptoms?
+- -  i have a constant ache in my head
+  - thank you for sharing. Constant aching pain might be associated with tension headaches. Would you be interested in talking to a doctor for further guidance?

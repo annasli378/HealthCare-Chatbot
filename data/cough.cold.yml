@@ -1,17 +1,16 @@
-- - My nose is choked.
+- - My nose is choked
   - Okay, this is a symptom of cold, do you have cold?
-- - yes i have cold.
+- - yes i have cold
   - You should take a sudafed tablet after your meal.
-- - Ok, i will take the sudafed tablet.
+- - Ok, i will take the sudafed tablet
   - let me know if you are feeling better after having sudafed tablet.
-- - I took the sudafed tablet.
+- - I took the sudafed tablet
   - Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
 - - No, i am still not felling better after having sudafed tablet.
   - Ok, its not just a normal cold, you should consult a doctor.
-- - Can u book an appointment for me.
+- - Can u book an appointment for me
   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
-
-- - I have a cough.
+- - I have a cough
   - You should take a spoon full of benadryl after your meal.
 - - Ok, i will take the benadryl.
   - let me know if you are feeling better after having benadryl.
@@ -20,19 +19,17 @@
 - - No, i am still not felling better after having benadryl.
   - Ok, its not just a normal cough, you should consult a doctor.
 - - Can u book an appointment for me.
-  - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:' 
-  - 
-- - I have a cold.
-  - You should take a sudafed tablet after your meal.
-- - Ok, i will take the sudafed tablet.
-  - let me know if you are feeling better after having sudafed tablet.
-- - I took the sudafed tablet.
-  - Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
-- - No, i am still not felling better after having sudafed tablet.
-  - Ok, its not just a normal cold, you should consult a doctor.
-- - Can u book an appointment for me.
   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
-
+- - I have a cold
+  - You should take a sudafed tablet after your meal.
+- - Ok, i will take the sudafed tablet
+  - let me know if you are feeling better after having sudafed tablet.
+- - I took the sudafed tablet
+  - Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
+- - No, i am still not felling better after having sudafed tablet
+  - Ok, its not just a normal cold, you should consult a doctor.
+- - Can u book an appointment for me
+  - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
 - - My chest is aching.
   - Okay, this is a symptom of cough , do you have cough?
 - - yes i have cough.
@@ -44,8 +41,7 @@
 - - No, i am still not felling better after having benadryl.
   - Ok, its not just a normal cough, you should consult a doctor.
 - - Can u book an appointment for me.
-  - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:' 
-
+  - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
 - - My nose is itching.
   - Okay, this is a symptom of cold, do you have cold?
 - - yes i have cold.
@@ -58,7 +54,6 @@
   - Ok, its not just a normal cold, you should consult a doctor.
 - - Can u book an appointment for me.
   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
-
 - - My throat is itching.
   - Okay, this is a symptom of cough , do you have cough?
 - - yes i have cough.
@@ -71,4 +66,27 @@
   - Ok, its not just a normal cough, you should consult a doctor.
 - - Can u book an appointment for me.
   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
-- - 
+- - I've got a stuffy nose
+  - Alright, it sounds like you might have a cold. Do you have any other symptoms?
+- - my nose won't stop running
+  - Sounds like you may be dealing with a cold. Have you been experiencing this for a while?
+- - my head is pounding
+  - I see, a headache can be caused by various factors. Can you describe the pain, is it throbbing or constant?
+- - I can't shake off this headache
+  - I'm sorry to hear that. How long have you been experiencing this headache, and is it getting worse?
+- - I'm feeling under the weather
+  - I'm sorry to hear that. Can you tell me more about your symptoms and how long you've been feeling this way?
+- - I'm not feeling my best
+  - I'm here to help. Can you share more details about your symptoms or any specific discomfort you're facing?
+- - I have a persistent cough
+  - Coughs can be quite bothersome. Have you noticed any other symptoms along with the cough?
+- - My throat is scratchy
+  - I see, a scratchy throat might indicate various issues. How long has your throat been bothering you?
+- - I've been sneezing a lot
+  - Frequent sneezing could be due to allergies or a cold. Any other symptoms you've noticed?
+- - I'm feeling fatigued
+  - Fatigue can have several causes. Can you describe any other symptoms or specific situations that trigger it?
+- - I have body aches all over
+  - Body aches can be a sign of various issues. Have you recently engaged in strenuous activities or experienced any injuries?
+- - I can't seem to shake off this fever
+  - I'm sorry to hear about the fever. Have you been monitoring your temperature, and do you have any other symptoms?
