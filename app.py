@@ -1,7 +1,7 @@
-from flask import Flask, render_template, request
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 import os
+from flask import Flask, render_template, Response, jsonify, request
 
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
@@ -12,19 +12,16 @@ file= open('saved_conversations/'+str(filenumber),"w+")
 file.write('bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.\n')
 file.close()
 
-app = Flask(__name__)
 
-
-english_bot = ChatBot('Bot',
-             storage_adapter='chatterbot.storage.SQLStorageAdapter',
-             logic_adapters=[
-   {
-       'import_path': 'chatterbot.logic.BestMatch'
-   },
-   
-],
-trainer='chatterbot.trainers.ListTrainer')
+english_bot = ChatBot('Bot')
 english_bot.set_trainer(ListTrainer)
+for file in os.listdir('data'):
+        print('Training using '+file)
+        convData = open('data/' + file).readlines()
+        english_bot.train(convData)
+        print("Training completed for "+file)
+
+app = Flask(__name__)
 
 @app.route("/")
 def home():
